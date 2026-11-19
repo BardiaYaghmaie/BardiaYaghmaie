@@ -58,13 +58,14 @@ def fetch_repo(name, tok):
 
 
 def banner(t):
-    w, line_h, x0, xv = 960, 32, 44, 196
+    w, line_h, x0, xv = 960, 32, 44, 228
     rows = [
         ("Name", "Bardia Yaghmaie"),
         ("Role", "Site Reliability Engineer @ Yektanet"),
         ("Focus", "Kubernetes · Platform Engineering · DevSecOps"),
-        ("Serving", "4 clusters · 200+ nodes · 50k+ req/s"),
-        ("Off-hours", "Go operators, kubectl plugins, Rust proxies"),
+        ("Operating on", "200+ nodes · 50k+ req/s"),
+        ("Off-hours", "Open source, cloud-native infra tools"),
+        ("Interested in", "Agentic AI · AI agents · AI agent infra"),
     ]
     cmd = "kubectl describe bardia"
     type_end = 0.4 + len(cmd) * 0.04

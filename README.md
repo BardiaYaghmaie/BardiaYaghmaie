@@ -4,6 +4,7 @@
 </picture>
 
 <p align="center">
+  <a href="mailto:yaghmaiebardia@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/bardia-yaghmaie"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bardia--yaghmaie-0A66C2?style=flat-square"></a>
   <a href="https://github.com/kubernetes-sigs/krew-index/pull/5095"><img alt="krew" src="https://img.shields.io/badge/krew-edit--secret-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
 </p>
@@ -67,7 +68,7 @@ Teaching ended up being one of the best parts of uni for me. I TA'd five courses
   </tr>
 </table>
 
-Always happy to chat about SRE, Kubernetes, security or open source, so feel free to reach out on [LinkedIn](https://linkedin.com/in/bardia-yaghmaie)!
+Always happy to chat about SRE, Kubernetes, security, AI agents or open source. Drop me a line at **[yaghmaiebardia@gmail.com](mailto:yaghmaiebardia@gmail.com)** or find me on [LinkedIn](https://linkedin.com/in/bardia-yaghmaie)!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BardiaYaghmaie/BardiaYaghmaie/output/github-snake-dark.svg">
