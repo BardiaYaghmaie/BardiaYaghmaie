@@ -65,7 +65,7 @@ def banner(t):
         ("Focus", "Kubernetes · Platform Engineering · DevSecOps"),
         ("Operating on", "200+ nodes · 50k+ req/s"),
         ("Off-hours", "Open source, cloud-native infra tools"),
-        ("Interested in", "Agentic AI · AI agents · AI agent infra"),
+        ("Interested in", "Agentic AI and its infra"),
     ]
     cmd = "kubectl describe bardia"
     type_end = 0.4 + len(cmd) * 0.04
