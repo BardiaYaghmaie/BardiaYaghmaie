@@ -31,10 +31,6 @@ PROJECTS = [
      "Reverse proxy and load balancer in Rust on Pingora. Discovers Docker Compose and Swarm workloads from labels, configured by env vars alone."),
     ("distributed-n8n-on-k8s", "HA",
      "n8n in queue mode on Kubernetes: CloudNativePG failover, Redis Sentinel, Gateway API and KEDA autoscaling on queue depth."),
-    ("Graph-Edge-Magic-Total-Labeling", "BSc thesis",
-     "Exact CP-SAT solver, verifier and visualizer for edge-magic total labelings of four-partite graphs, with the article."),
-    ("Party-Management-Telegram-Bot", "bot",
-     "Bilingual Telegram bot for managing RSVPs, guest lists and event details."),
 ]
 
 MONO = "ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace"
